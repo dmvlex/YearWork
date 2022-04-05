@@ -1,0 +1,15 @@
+D:\Alex Stuff\Programming\Visual Projects\YearWork\bin\Release\net6.0\YearWork.exe
+D:\Alex Stuff\Programming\Visual Projects\YearWork\bin\Release\net6.0\YearWork.deps.json
+D:\Alex Stuff\Programming\Visual Projects\YearWork\bin\Release\net6.0\YearWork.runtimeconfig.json
+D:\Alex Stuff\Programming\Visual Projects\YearWork\bin\Release\net6.0\YearWork.dll
+D:\Alex Stuff\Programming\Visual Projects\YearWork\bin\Release\net6.0\YearWork.pdb
+D:\Alex Stuff\Programming\Visual Projects\YearWork\obj\Release\net6.0\YearWork.csproj.AssemblyReference.cache
+D:\Alex Stuff\Programming\Visual Projects\YearWork\obj\Release\net6.0\YearWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex Stuff\Programming\Visual Projects\YearWork\obj\Release\net6.0\YearWork.AssemblyInfoInputs.cache
+D:\Alex Stuff\Programming\Visual Projects\YearWork\obj\Release\net6.0\YearWork.AssemblyInfo.cs
+D:\Alex Stuff\Programming\Visual Projects\YearWork\obj\Release\net6.0\YearWork.csproj.CoreCompileInputs.cache
+D:\Alex Stuff\Programming\Visual Projects\YearWork\obj\Release\net6.0\YearWork.dll
+D:\Alex Stuff\Programming\Visual Projects\YearWork\obj\Release\net6.0\ref\YearWork.dll
+D:\Alex Stuff\Programming\Visual Projects\YearWork\obj\Release\net6.0\YearWork.pdb
+D:\Alex Stuff\Programming\Visual Projects\YearWork\obj\Release\net6.0\YearWork.genruntimeconfig.cache
+D:\Alex Stuff\Programming\Visual Projects\YearWork\obj\Release\net6.0\refint\YearWork.dll
